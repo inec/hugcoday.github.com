@@ -1,4 +1,4 @@
-{
+﻿{
     "site_name": "git de Chi",
     "copyright": "SYSCDE",
     "cates": [
@@ -6,7 +6,7 @@
         {"name": "life", "text":"WInnipeg"},
         {"name": "other", "text":"其它"}
     ],
-    "articles":[2015-02-03-markdown2015-1
+    "articles":[
 	{"title": "markdonw", "file": "2015-02-03-markdown2015-1", "cate":"tech"},
 		{"title": "Chi git", "file": "2015-02-03-git2015-1", "cate":"tech"},
 		{"title": "JSBlog git", "file": "2013-10-19-jsblog", "cate":"tech"},
