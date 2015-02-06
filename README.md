@@ -1,4 +1,4 @@
-# [多多de棉花糖](http://hugcoday.github.com)
+﻿# [多多de-Chi棉花糖](http://inec.github.com)
 
 
 本博客是基于[小天天博客](https://github.com/onlytiancai/xiaotiantian)  
@@ -6,7 +6,7 @@
 
 ###本博客特色：
 
-* 纯js博客
+* 纯js博客 Chi(http://inec.github.com)
 * json列表
 * 代码高亮展示,默认使用[highlight.js](http://softwaremaniacs.org/soft/highlight/en/)，修改样式直接替换css/default.css样式即可
 * 首页显示最新10篇文章简介
