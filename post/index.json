@@ -7,6 +7,7 @@
         {"name": "other", "text":"其它"}
     ],
     "articles":[
+	{"title": "Google  1", "file": "2015-02-11-google2015-1", "cate":"tech"},
 	{"title": "markkedit 1", "file": "2015-02-05-git-markdown2", "cate":"tech"},
 	{"title": "Stackedit 1", "file": "2015-02-05-stackedit01", "cate":"tech"},
 	{"title": "markdonw", "file": "2015-02-03-markdown2015-1", "cate":"tech"},
